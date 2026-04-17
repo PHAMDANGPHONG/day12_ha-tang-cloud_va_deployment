@@ -1,8 +1,8 @@
 # Day 12 Lab — Mission Answers
 
-> **Student Name:** Pham Dang Phong  
-> **Course:** AICB-P1 · VinUniversity 2026  
-> **Lab:** Day 12 — Deployment: Đưa Agent Lên Cloud
+> **Student Name:** Phạm Đăng Phong  
+> **Student ID:** 2A202600254  
+> **Date :** 17/04/2026
 
 ---
 
