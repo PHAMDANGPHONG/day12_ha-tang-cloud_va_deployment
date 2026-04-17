@@ -1,6 +1,7 @@
 # Deployment Information — Day 12 Lab
 
-> **Student:** Pham Dang Phong  
+> **Student:** Phạm Đăng Phong  
+> **Student ID:** 2A202600254  
 > **Platform:** Railway  
 > **Status:** ⏳ Pending deployment 
 
